@@ -52,3 +52,9 @@ arraylist.c:39:62: error: expected expression before ‘)’ token
       |                                                              ^
 Compilation failed
 02e1f1f
+Thu 30 Mar 2023 08:39:58 PM UTC: 
+ arraylist.c | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+ tests:  5|3
+total_score: 30/70
+98c4fd5
